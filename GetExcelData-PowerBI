@@ -1,1 +1,8 @@
 Excel.Workbook([Content],true)
+
+Month Number = MONTH(XXXX[zzz])
+
+Month = FORMAT(XXXX[zzz],"mmm")
+
+Year = YEAR(XXX[zzz])
+
